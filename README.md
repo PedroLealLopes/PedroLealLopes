@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Pedro Lopes👋
 
-<!--
-**PedroLealLopes/PedroLealLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/devPedroLopes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/devPedroLopes&screen_name=devPedroLopes)
 
-Here are some ideas to get you started:
+🌱 I’m currently learning everything about Front-End! 😎 
+<br />
+🥅 2021 Goals: Contribute more to Open Source projects
+<br />
+⚡ Fun fact: I'm a hobbiest hip-hop producer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-zeta-two-13.vercel.app/api?username=PedroLealLopes&show_icons=true&hide_border=true&theme=dracula" />
+  
