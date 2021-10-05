@@ -1,7 +1,9 @@
 ### Hey, I'm Pedro Lopes👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/devPedroLopes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/devPedroLopes&screen_name=devPedroLopes)
 
-### About Me 😎
+<h1>
+About Me 😎
+</h1>
 
 🤙 I’m currently learning everything about Front-End! 
 <br />
@@ -11,7 +13,8 @@
 <br />
 🍺 Another Fun fact: I'm also a mead brewer, and avid artisanal beer enjoyer!
 
---- 
+<br />
+
   <img  align="left"  align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-zeta-two-13.vercel.app/api?username=PedroLealLopes&show_icons=true&hide_border=true&theme=dracula" />
   <br/>
   
@@ -31,12 +34,12 @@
   
   <br/>
   
----
-  <br/>
 
   <p align='left'>
-  💻 My workspace<br/><br/>
-    
+  <h1>
+💻 My workspace
+  <h1/>
+  
 
   <img   src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" />
   
