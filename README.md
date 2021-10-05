@@ -1,4 +1,9 @@
 ### Hey, I'm Pedro Lopes👋
+<p>
+A Junior Front-End Web Developer based in Leiria, Portugal 🇵🇹
+</p>
+<br/>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/devPedroLopes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/devPedroLopes&screen_name=devPedroLopes)
 
 <h1>
