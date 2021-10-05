@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/devPedroLopes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/devPedroLopes&screen_name=devPedroLopes)
 
 <h1>
-About Me 😎
+😎 About Me 
 </h1>
 
 🤙 I’m currently learning everything about Front-End! 
