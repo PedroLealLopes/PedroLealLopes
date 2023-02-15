@@ -12,7 +12,7 @@ A Junior Front-End Web Developer based in Leiria, Portugal 🇵🇹
 
 🤙 I’m currently learning everything about Front-End! 
 <br />
-🥅 2022 Goals: Contribute more to Open Source projects
+🥅 2023 Goals: Contribute more to Open Source projects
 <br />
 ⚡ Fun fact: I'm a hobbiest hip-hop producer.
 <br />
